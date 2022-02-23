@@ -1,4 +1,3 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"When logging on","Users can log on via the home page","SUCCESS","2022-02-23T22:12:07.554460944Z[Etc/UTC]","0.0","7.43"
 "When viewing highlighted products","Should display highlighted products on the welcome page","SUCCESS","2022-02-23T22:12:16.421390898Z[Etc/UTC]","0.0","1.38"
 "When viewing highlighted products","Should display correct product details page","SUCCESS","2022-02-23T22:12:17.917911687Z[Etc/UTC]","0.0","1.34"
